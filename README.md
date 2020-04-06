@@ -1,0 +1,2 @@
+# QSerialExercises
+checksum + Qserialport communication
